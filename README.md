@@ -12,6 +12,13 @@ My hobies are to of course keep learning new things a be up to date with latest 
  <img alt="YOUR-ALT-TEXT" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wcupa.edu%2F_services%2FSTU%2FramsEyeView%2FwcuSymbols.aspx&psig=AOvVaw2P3wI2N6sw9MQOGdLo4PgH&ust=1686758508451000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjT5p_PwP8CFQAAAAAdAAAAABAE">
 </picture>
 
+| ID   | Hobbies         |
+|-----:|---------------- |
+|     1| Volleyball      |
+|     2| Reading         |
+|     3| Political News  |
+
+
 
 <!--
 **JahnaviChavda/JahnaviChavda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
