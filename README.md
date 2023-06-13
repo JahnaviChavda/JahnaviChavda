@@ -6,6 +6,12 @@ I am intreseted in learning how the techincal knowledge would overall help me in
 
 My hobies are to of course keep learning new things a be up to date with latest changes but along with that I love playing Volleyball and i have great intrest in politics as well.
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wcupa.edu%2F_services%2FSTU%2FramsEyeView%2FwcuSymbols.aspx&psig=AOvVaw2P3wI2N6sw9MQOGdLo4PgH&ust=1686758508451000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjT5p_PwP8CFQAAAAAdAAAAABAE">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wcupa.edu%2F_services%2FSTU%2FramsEyeView%2FwcuSymbols.aspx&psig=AOvVaw2P3wI2N6sw9MQOGdLo4PgH&ust=1686758508451000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjT5p_PwP8CFQAAAAAdAAAAABAE">
+ <img alt="YOUR-ALT-TEXT" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wcupa.edu%2F_services%2FSTU%2FramsEyeView%2FwcuSymbols.aspx&psig=AOvVaw2P3wI2N6sw9MQOGdLo4PgH&ust=1686758508451000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjT5p_PwP8CFQAAAAAdAAAAABAE">
+</picture>
+
 
 <!--
 **JahnaviChavda/JahnaviChavda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
