@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+This is Jahnavi, I am currently doing my Masters in the Computer Science field, I am an internaltional student at West Chester University. I have also worked as Business Analyst for year and a half before joining the masters program. 
+
+I am intreseted in learning how the techincal knowledge would overall help me in my career as BA. Along with that I am currently taking a course for Linux. This course intreseted me as it owuld give me new perspectvie towards the Operating system and how each OS works. I find workign with the command lines very intresting and hence this was another reason for choosign this class.
+
+My hobies are to of course keep learning new things a be up to date with latest changes but along with that I love playing Volleyball and i have great intrest in politics as well.
+
+
 <!--
 **JahnaviChavda/JahnaviChavda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
