@@ -6,6 +6,8 @@ I am intreseted in learning how the techincal knowledge would overall help me in
 
 My hobies are to of course keep learning new things a be up to date with latest changes but along with that I love playing Volleyball and i have great intrest in politics as well.
 
+While doing this exercise i learned a lot of things. I learned how Github works in general, I have never used Github before hence this was great assignmnet. Along with that I learned how to make new repisotory along iwth making a Readme.md file. I also learned about how to style this readme file. Along with this there are several other basics that I got to learn about Github.
+
 
 <!--
 **JahnaviChavda/JahnaviChavda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
